@@ -35,7 +35,7 @@ Agile/Scrum • Waterfall • AS-IS/TO-BE Analysis • Use Case Modeling • Use
 
 ### 🔄 Improving Student Internship Placement Process
 **Focus:** Process Improvement & Requirements Analysis  
-🔗 **[View Project](PASTE_LINK_HERE)**
+🔗 **[View Project](https://github.com/AlfiiaZh/BA-Internship-Process-Improvement)**
 
 Comprehensive process redesign project that streamlined the internship placement workflow at an educational institution.
 
@@ -72,7 +72,7 @@ In-depth market analysis project evaluating competitive landscape and providing 
 
 ### 📊 KPI Dashboard & Business Metrics Analysis
 **Focus:** KPI Development & Performance Reporting  
-🔗 **[View Project](PASTE_LINK_HERE)**
+🔗 **[View Project](https://github.com/AlfiiaZh/BA-KPI-Dashboard-Project)**
 
 Designed and implemented a comprehensive KPI framework with interactive dashboard for business performance tracking.
 
@@ -136,8 +136,7 @@ End-to-end data analysis project focused on extracting actionable business insig
 I'm always interested in collaborating on business analysis projects or discussing opportunities!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfiia.zholdosheva1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alfiia-zholdosheva-62836a30b)
 
 ---
 
