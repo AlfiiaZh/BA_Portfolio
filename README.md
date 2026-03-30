@@ -154,9 +154,5 @@ I'm always interested in collaborating on business analysis projects or discussi
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square" alt="Profile views" />
-</div>
-
-<div align="center">
   <i>⭐️ From <a href="https://github.com/YOUR_USERNAME">Alfiia Zholdosheva</a></i>
 </div>
