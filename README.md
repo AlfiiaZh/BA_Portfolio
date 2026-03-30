@@ -149,8 +149,6 @@ I'm always interested in collaborating on business analysis projects or discussi
 - Grow in a collaborative, innovation-focused environment
 
 **Available from:** July 2026  
-**Open to:** Remote, Hybrid, or Relocation opportunities
-
 ---
 
 <div align="center">
